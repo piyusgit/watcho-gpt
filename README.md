@@ -73,3 +73,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - Step the project structure using - npx create-react-app
 - Configure the TailwindCss in our project
+- Header
+- Routing of App
+- Login Form
+- Sign up Form
+- Form Validation
+- useRef Hook
+- Firebase Setup
+- Deploying our app to production
+- Create Sign Up User Account
+- Implement Sign In user Api
+- Created Redux store with userSlice
+- Update User Profile
+- Implement Sign Out
+- BugFix: Sign up user displayName
+- BugFix: if the user is not signed in Redirect to /browse to login page and vice-versa
+- Unsubscribe to onAuthStateChange callback
+- Register on TMDB API & create a new app & get access token
+- Get Data from TMDB API now playing movie list
+- Custom hook for Now Playing Movies
+- Create movieSlice
+- Update store with movie data
+- Fetch data for Trailer Video
+- Update Store with Trailer Video
+- Embed the youtube video and make it autoplay
+- Add Tailwind css
